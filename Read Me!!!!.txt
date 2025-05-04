@@ -1,3 +1,9 @@
-***Disclaimer***
-You will need to create a virtual environment in order to run the files or it won't work.
+***
+Disclaimer
+1)You will need to create a virtual environment in order to run the files or it won't work.
+2)You will need to install pandas in your library.
+3)You will need to install sklearn in your library.
+4)You will need to install textblob in your library.
+***
+
 After running, when selecting your movie, make sure you include the release year after the name of the movie like this "Back to the Future (1985)" in first brackets. Don't worry I have listed all the release years in the "u.item" file. Just enter the movie you and year, enter how you're feeling and then boom!, you will get a recommended movie to watch according to your emotion.
